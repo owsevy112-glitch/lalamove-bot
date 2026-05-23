@@ -50,7 +50,7 @@ async def lalapoints(ctx):
     points_data = load_points()
     user_id = str(ctx.author.id)
     current_points = points_data.get(user_id, 0)
-    await ctx.send(f"{ctx.author.mention}, you have {current_points} points! 📦")
+    await ctx.send(f"{ctx.author.mention}, you have {current_points} lalapoints! 📦")
 
 @bot.command(name="lalatop")
 async def lalatop(ctx):
