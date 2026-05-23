@@ -6,7 +6,7 @@ from discord.ext import commands
 
 # --- CONFIGURATION ---
 # 1. Enter your exact Channel ID here (Right-click #lalamove-spam -> Copy ID)
-SPAM_CHANNEL_ID = "1507377126964461678  
+SPAM_CHANNEL_ID = "1507377126964461678" 
 
 # 2. Backup name check just in case
 SPAM_CHANNEL_NAME = "lalamove-spam" 
