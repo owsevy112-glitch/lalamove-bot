@@ -4,7 +4,7 @@ import discord
 from discord.ext import commands
 
 # --- CONFIGURATION ---
-SPAM_CHANNEL_ID = 1507731908480729259  
+SPAM_CHANNEL_ID = 1509782202043465878
 # ---------------------
 
 intents = discord.Intents.default()
